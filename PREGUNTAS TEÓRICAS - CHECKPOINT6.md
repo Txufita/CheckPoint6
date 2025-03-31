@@ -259,7 +259,7 @@ Permitido en HTML forms: No
 
 # Es MongoDB una base de datos SQL o NoSQL?
 
- [una imagen](https://cdn.prod.website-files.com/649b8ab4a5eb52039dce4a28/658e91c195208ba1f0db5079_what-is-MongoDB-900.webp)
+ ![una imagen](https://cdn.prod.website-files.com/649b8ab4a5eb52039dce4a28/658e91c195208ba1f0db5079_what-is-MongoDB-900.webp)
 
 MongoDB es una base de datos de código abierto NoSQL. Proporciona escalabilidad y alto rendimiento. Una base de datos relacional tiene tablas y las tablas tienen filas y columnas. Del mismo modo, MongoDB tiene colecciones y documentos. Un documento es un registro en la colección MongoDB. Una colección es un conjunto de documentos de MongoDB. Normalmente, todos los documentos tienen un propósito similar
 
@@ -268,7 +268,7 @@ La diferencia entre NoSQL y MongoDB es que NoSQL es un mecanismo para almacenar 
 El programador escribe documentos en formato JSON. MongoDB convierte internamente los objetos JSON se convierten a BSON. BSON es un objeto binario y tiene comillas tanto en clave como en valor. MongoDB es útil para el desarrollo de software basado en agile porque puede cambiar a una gran cantidad de datos. Es fácil cambiar los documentos agregando y eliminando fácilmente los existentes. MongoDB puede almacenar diferentes tipos de tipos de datos tales como cadenas, números, fechas, matrices, booleanos, etc. También tiene un tipo de datos de búfer para almacenar videos, imágenes y audio. El tipo de datos mixtos puede combinar diferentes tipos de datos. MongoDB tiene una sintaxis sencilla, por lo que es fácil escribir consultas. También puede proporcionar programas de reducción de mapas en arquitectura distribuida.
 
  
-[mark](https://kinsta.com/es/wp-content/uploads/sites/8/2022/06/que-es-mongodb.jpeg)
+![mark](https://kinsta.com/es/wp-content/uploads/sites/8/2022/06/que-es-mongodb.jpeg)
  
 
 Similitudes entre NoSQL y MongoDB:
@@ -397,8 +397,7 @@ Estas combinan dos o más API diferentes para abordar requisitos o comportamient
 
 # Que es Postman?
 
-image.png
- 
+
 
 Postman en sus inicios nace como una extensión que podía ser utilizada en el navegador Chrome de Google y básicamente nos permite realizar peticiones de una manera simple para testear APIs de tipo REST propias o de terceros.
 
