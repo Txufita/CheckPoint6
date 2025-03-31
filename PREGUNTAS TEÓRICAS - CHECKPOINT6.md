@@ -397,7 +397,7 @@ Estas combinan dos o más API diferentes para abordar requisitos o comportamient
 
 # Que es Postman?
 
-
+![postman](https://desarrolloweb.com/media/181/boton-send.jpg)
 
 Postman en sus inicios nace como una extensión que podía ser utilizada en el navegador Chrome de Google y básicamente nos permite realizar peticiones de una manera simple para testear APIs de tipo REST propias o de terceros.
 
